@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^29.2.0"
+  },
+  "dependencies": {
+    "math.js": "^1.1.46"
   }
 }
