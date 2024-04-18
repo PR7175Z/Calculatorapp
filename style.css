@@ -1,6 +1,23 @@
 .display-screen{
-    background-color: #aaa;
+    background-color: #fff;
     width: 200px;
     height: 30px;
     margin-bottom: 10px;
+    border: 1px solid #000;
+}
+
+.number-btn, .sign-btn, .result-btn, .clearbtn{
+    border:1px solid #000;
+    margin-bottom: 5px;
+    width:40px;
+}
+
+.vertical-row, .numbers{
+    display: inline-block;
+}
+.vertical-row button{
+    display: block;
+}
+.clear-btn{
+    display: inline-block;
 }
